@@ -1,2 +1,3 @@
-# self-script
-All contents of this warehouse are from the Internet
+# 😄
+All contents of this warehouse are from the Internet.
+Don't ask questions if I don't know anything.
