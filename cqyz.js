@@ -6,8 +6,6 @@
  * ========= 青龙--配置文件 =========
  * 变量：cqyz_data='xxxxx&xxxxx@xxxxx&xxxxx '  多个账号用@分割 
  * 定时一天3-5次
- *
- * TG频道 https://t.me/+8MW154Zei4s0NjU1
 */
 const $ = new Env("重庆渝中")
 let scriptVersion = "3.0";
